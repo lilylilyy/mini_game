@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/static/js/main.7a264323.js",
+    "static/media/NotoSansKR-Bold.otf": "/static/media/NotoSansKR-Bold.c252383c4f70753be0e7.otf",
+    "static/media/NotoSansKR-Medium.otf": "/static/media/NotoSansKR-Medium.56207b5e52841342a21b.otf",
+    "static/media/NotoSansKR-Regular.otf": "/static/media/NotoSansKR-Regular.e1aa54c04a18648e6468.otf",
+    "static/media/NotoSansKR-Light.otf": "/static/media/NotoSansKR-Light.636ff9b51e826a733c3d.otf",
+    "static/media/baseball_park.jpg": "/static/media/baseball_park.5fa102c8e655e285b402.jpg",
+    "static/media/WavvePADO-Regular.woff": "/static/media/WavvePADO-Regular.36a6f32c3096f8baffd8.woff",
+    "static/media/game2.png": "/static/media/game2.66e3b0f5ea8dafab5935.png",
+    "static/media/game3.png": "/static/media/game3.614f8920c78295e5ea0b.png",
+    "static/media/word_relay.png": "/static/media/word_relay.01f4bbe77a826a4e4f68.png",
+    "index.html": "/index.html",
+    "main.7a264323.js.map": "/static/js/main.7a264323.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7a264323.js"
+  ]
+}
