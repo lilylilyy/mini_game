@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.fcb55494.js",
-    "static/media/NotoSansKR-Bold.otf": "/static/media/NotoSansKR-Bold.c252383c4f70753be0e7.otf",
-    "static/media/NotoSansKR-Medium.otf": "/static/media/NotoSansKR-Medium.56207b5e52841342a21b.otf",
-    "static/media/NotoSansKR-Regular.otf": "/static/media/NotoSansKR-Regular.e1aa54c04a18648e6468.otf",
-    "static/media/NotoSansKR-Light.otf": "/static/media/NotoSansKR-Light.636ff9b51e826a733c3d.otf",
-    "static/media/baseball_park.jpg": "/static/media/baseball_park.5fa102c8e655e285b402.jpg",
-    "static/media/WavvePADO-Regular.woff": "/static/media/WavvePADO-Regular.36a6f32c3096f8baffd8.woff",
-    "static/media/game3.png": "/static/media/game3.614f8920c78295e5ea0b.png",
-    "static/media/word_relay.png": "/static/media/word_relay.01f4bbe77a826a4e4f68.png",
-    "index.html": "/index.html",
-    "main.fcb55494.js.map": "/static/js/main.fcb55494.js.map"
+    "main.js": "/mini_game/static/js/main.85a7f7bc.js",
+    "static/media/NotoSansKR-Bold.otf": "/mini_game/static/media/NotoSansKR-Bold.c252383c4f70753be0e7.otf",
+    "static/media/NotoSansKR-Medium.otf": "/mini_game/static/media/NotoSansKR-Medium.56207b5e52841342a21b.otf",
+    "static/media/NotoSansKR-Regular.otf": "/mini_game/static/media/NotoSansKR-Regular.e1aa54c04a18648e6468.otf",
+    "static/media/NotoSansKR-Light.otf": "/mini_game/static/media/NotoSansKR-Light.636ff9b51e826a733c3d.otf",
+    "static/media/baseball_park.jpg": "/mini_game/static/media/baseball_park.5fa102c8e655e285b402.jpg",
+    "static/media/WavvePADO-Regular.woff": "/mini_game/static/media/WavvePADO-Regular.36a6f32c3096f8baffd8.woff",
+    "static/media/game3.png": "/mini_game/static/media/game3.614f8920c78295e5ea0b.png",
+    "static/media/word_relay.png": "/mini_game/static/media/word_relay.01f4bbe77a826a4e4f68.png",
+    "index.html": "/mini_game/index.html",
+    "main.85a7f7bc.js.map": "/mini_game/static/js/main.85a7f7bc.js.map"
   },
   "entrypoints": [
-    "static/js/main.fcb55494.js"
+    "static/js/main.85a7f7bc.js"
   ]
 }
